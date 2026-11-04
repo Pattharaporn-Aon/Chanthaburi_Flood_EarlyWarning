@@ -1,0 +1,6 @@
+event,obs_max_m,pred_tide_daily_max_m,fortnight_tide_max_range_m,anom_peak_m,spring_tide_scenario_max_m,scenario_shift_days
+Oct 2021 Chanthaburi city flood,3.56,3.5,2.92-3.54,0.175,3.66,-2
+Jun 2024 flood,3.52,3.41,2.96-3.43,0.107,3.52,0
+Jul 2024 Chanthaburi city flood,3.45,3.16,2.95-3.42,0.107,3.7,-6
+Jul 2025 runoff warning,3.18,3.07,2.92-3.42,0.036,3.5,7
+Sep 2026 Chanthaburi flood (red alert),3.23,2.96,2.87-3.55,0.162,3.9,6

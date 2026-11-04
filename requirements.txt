@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+utide
+xarray
+netCDF4
+cdsapi>=0.7.4
