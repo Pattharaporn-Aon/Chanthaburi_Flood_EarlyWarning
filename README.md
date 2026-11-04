@@ -2,7 +2,7 @@
 
 Code and processed data for a flood early-warning study of Chanthaburi, Eastern Thailand. The study combines the Marine Department water-level record at Tha Chalaep with ERA5-Land and ERA5 reanalysis data. Floods in Chanthaburi city are most severe when river runoff arrives during a high tide and the river cannot drain to the sea. The study separates the predictable tide from the non-tidal signal and estimates the probability that the water level exceeds warning thresholds.
 
-This repository follows the workflow of the Bang Pakong study published in *Ocean Dynamics* (2026) 76:114, https://doi.org/10.1007/s10236-026-01869-6.
+
 
 ## Status
 
